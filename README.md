@@ -1,2 +1,2 @@
-# Error-Git-Github Local
+# Error-Git-Github local
 Hello World
